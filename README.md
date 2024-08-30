@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blank-VUlture&radius=16&theme=gotham&area=true&order=5&custom_title=activity&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blank-Vulture&theme=2077" alt="details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blank-Vulture&theme=2077" />
+　<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Blank-Vulture&theme=2077&utcOffset=9" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Blank-VUlture&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Blank-VUlture&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blank-Vulture&theme=2077" alt="details" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blank-VUlture&radius=16&theme=gotham&area=true&order=5&custom_title=Activity&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
